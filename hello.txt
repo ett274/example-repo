@@ -1,1 +1,1 @@
-I have changed the text in this file, but differently than the local repository.
+I have changed the text in this file, and this difference should be visible.
